@@ -1,0 +1,3 @@
+"""
+Schedule Generator AI Service
+""" 
